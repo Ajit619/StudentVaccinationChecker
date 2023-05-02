@@ -1,8 +1,9 @@
 # StudentVaccinationChecker
 Student Vaccination Checker
 Student Vaccinated
-![Screenshot 2023-04-30 145935](https://user-images.githubusercontent.com/77828414/235353119-57e45e84-6d4b-45e1-9b98-4b64a92c0fb9.jpg)
+![image](https://user-images.githubusercontent.com/77828414/235651968-d02897ea-0ea1-4047-8c28-791b9bc35499.png)
 Student that are not Vaccinated
-![Screenshot 2023-04-30 150217](https://user-images.githubusercontent.com/77828414/235353127-f452c1f8-04ed-4e32-8b17-e760c52f2431.jpg)
+![image](https://user-images.githubusercontent.com/77828414/235652071-e2f89c92-cd65-4ec4-9f17-05cd0afadfb2.png)
+
 Student that are not present in database
-![Screenshot 2023-04-30 150240](https://user-images.githubusercontent.com/77828414/235353130-e62ea630-7441-43e4-8263-8675b0683995.jpg)
+![image](https://user-images.githubusercontent.com/77828414/235652167-14220066-4ddc-4c3e-80f9-afa42e114055.png)
